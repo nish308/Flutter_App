@@ -1,4 +1,4 @@
 ## Flutter App
 
-## Technologies Used:
-### Asp.net Core Web Api, Flutter
+### Technologies Used:
+Asp.net Core Web Api, Flutter
